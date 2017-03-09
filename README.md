@@ -1,3 +1,5 @@
+test kw
+
 # Glow responsive Theme for OXID eShop
 **demo: [http://glow.mb-dev.de](http://glow.mb-dev.de)**  
 based on Flow Theme: https://github.com/OXID-eSales/flow_theme
